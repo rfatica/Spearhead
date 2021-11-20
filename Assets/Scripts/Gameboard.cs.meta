@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 72288d6aa3775ee46958896bf673d88d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UnitWhite: {fileID: 6048181542413222144, guid: 69067d613af48ba4ea6e8d54aaa3d1b7, type: 3}
+  - UnitBlack: {fileID: 5665740076979368302, guid: 7da10e61fdb7380459f73bdeda4f064f, type: 3}
+  - TurnIndicatorText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
